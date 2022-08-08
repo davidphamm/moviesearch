@@ -6,7 +6,7 @@ import './App.css';
 import SearchIcon from './search.svg'
 
 // API code: a5cf7c17
-const API_URL = `http://www.omdbapi.com?apikey=a5cf7c17`;
+const API_URL = `https://www.omdbapi.com?apikey=a5cf7c17`;
 
 
 const App = () => {
